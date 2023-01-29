@@ -1,0 +1,58 @@
+
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.Avatar{
+    flex-direction: column;
+    margin-left: 300px;
+    width: 400px;
+    height: 400px;
+    border-radius: 60px;
+    margin-top: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    text-decoration-color: #ffffff;
+    background-color: white;
+    text-decoration-color: white;
+    background-color: white;
+    height: 400px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.card-header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card-text{
+    margin-right: 10px;
+}
+
+.title{
+    text-decoration-color: white;
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn.btn-primary{
+    border: solid 2px  black;
+    background-color: wheat;
+    text-decoration-color: white;
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
